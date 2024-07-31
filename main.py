@@ -14,8 +14,8 @@ from rich.text import Text
 from rich.style import Style
 from cpmnuker import CPMNuker
 
-__CHANNEL_USERNAME__ = "CPMNuker"
-__GROUP_USERNAME__   = "CPMNukerChat"
+__CHANNEL_USERNAME__ = "CANECPMTOOL CHANNEL"
+__GROUP_USERNAME__   = "CANEXEWAN CHAT"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
